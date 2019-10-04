@@ -1,0 +1,8 @@
+sub_id = "965c8882-db32-486f-83af-1265fc20af06"
+keyvaultname = "Tst19080801"
+secretname = "tf-npnp-pwd"
+secretid = "a923cf5c87984e4cbc594dcd1d2d10db"
+client_id = "bfcd566c-854c-41d2-9f38-fd0c1842d849"
+tenant_id = "7cacbdfd-ebad-46c0-8d1e-b7058ce44173"
+resource_group_name = "Kan-Tmp"
+location_name = "WestUS2"
